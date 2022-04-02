@@ -1,0 +1,12 @@
+---
+:id: 83792051
+:submitters:
+- :name: Yeonhak Kim
+  :email: ykim713@gatech.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-07-14 15:27:43.822498000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-07-14 08:27:43.822498000 Z
+:status: processed
+:score: 100.0
